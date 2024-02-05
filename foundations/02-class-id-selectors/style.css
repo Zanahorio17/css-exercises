@@ -1,0 +1,19 @@
+p{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#nmr2{
+    color: blue;
+    font-size: 36px;
+}
+
+.tres{
+    font-size: 24px;
+}
+
+#nmr4{
+    background-color: rgb(159, 223, 159);
+    font-size: 24px;
+    font-weight: bold;
+}
